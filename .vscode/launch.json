@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch encryptDecrypt",
+            "request": "launch",
+            "mainClass": "encryptDecrypt",
+            "projectName": "N3_63549964"
+        },
+        {
+            "type": "java",
+            "name": "Launch encrypt",
+            "request": "launch",
+            "mainClass": "encrypt",
+            "projectName": "N3_63549964"
+        },
+        {
+            "type": "java",
+            "name": "Launch Crypt",
+            "request": "launch",
+            "mainClass": "Crypt",
+            "projectName": "N3_63549964"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetKeys",
+            "request": "launch",
+            "mainClass": "tech.gregori.rsa.utils.GetKeys",
+            "projectName": "N3_63549964"
+        }
+    ]
+}
